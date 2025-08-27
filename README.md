@@ -1,7 +1,7 @@
 # 👋 Ciao! Sono Giuseppe
 
 🎯 Jr Full Stack Developer appassionato di tecnologia, programmazione e innovazione.  
-💻 Specializzato in **PHP, Laravel, JavaScript, React, Node.js, MySQL**.  
+💻 Specializzato in **PHP, Laravel, JavaScript, React, Node.js, Express.js, Java, Spring Boot, MySQL**.  
 🚀 Attualmente alla ricerca di nuove opportunità lavorative in ambito web development.
 
 ## 🛠️ Tecnologie principali
@@ -18,6 +18,9 @@
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
+
   </p>
 - Database:
   <p align="left">
